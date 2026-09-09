@@ -1,0 +1,9 @@
+{
+  "name": "play-exchange-one",
+  "version": "1.0.0",
+  "description": "Gaming app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
